@@ -1,5 +1,15 @@
-# True Detective Back
+# Fast API Template
 
+## To setup
+```
+pipenv install
+pipenv shell
+```
+
+## To Run
+```
+python3 main.py
+```
 
 ## APIs
 GET /scene
@@ -14,3 +24,4 @@ POST /answer
         script: string,
         answer: string
     }
+
